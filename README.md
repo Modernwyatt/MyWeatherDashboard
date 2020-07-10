@@ -1,6 +1,6 @@
 # 06 Server-Side APIs: Weather Dashboard
 
-This app allows the user to search for a city. after the user clicks "Search" Then the app will display the current weaather condtions of the selected city. In addition, it will display a 5 day forecast for the selected city.  This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery and Ajax.
+This app allows the user to search for a city. after the user clicks "Search" Then the app will display the current weather conditions of the selected city. In addition, it will display a 5 day forecast for the selected city.  This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery and Ajax.
 
 ## User Story
 
